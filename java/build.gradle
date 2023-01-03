@@ -1,0 +1,29 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
+
+subprojects {
+    group = 'org.abcpen.cloud'
+    version = "0.0.1"
+    repositories {
+        mavenLocal()
+        mavenCentral()
+    }
+    apply plugin: 'java'
+    apply plugin: 'java-library'
+
+    java {
+        toolchain {
+            languageVersion = JavaLanguageVersion.of(8)
+        }
+    }
+    configurations.all {
+        // check for updates every build
+        resolutionStrategy.cacheChangingModulesFor 0, 'seconds'
+    }
+
+}
+
+
