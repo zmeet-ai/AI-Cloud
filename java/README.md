@@ -63,7 +63,7 @@ Host: asr.cloud.abcpen.com
 Content-Type: application/json; charset=utf-8
 X-AP-TC: 1672388975
 Host: asr.cloud.abcpen.com
-Authorization: V1-HMAC-SHA256,Asia/Shanghai;Scope=asr;Credential=test1;Signature=7d894a3a3aa1ee9c271a579d8b692e5224538924cf16549bf0334d0496190e1f
+Authorization: V1-HMAC-SHA256;Scope=asr;Credential=test1;Signature=7d894a3a3aa1ee9c271a579d8b692e5224538924cf16549bf0334d0496190e1f
 {  
     "targetId": "123",
     "enableSpeaker":false,  
@@ -96,7 +96,7 @@ Host: asr.cloud.abcpen.com
 Content-Type: application/json; charset=utf-8
 X-AP-TC: 1672388975
 Host: asr.cloud.abcpen.com
-Authorization: V1-HMAC-SHA256,Asia/Shanghai;Scope=asr;Credential=test1;Signature=7d894a3a3aa1ee9c271a579d8b692e5224538924cf16549bf0334d0496190e1f
+Authorization: V1-HMAC-SHA256;Scope=asr;Credential=test1;Signature=7d894a3a3aa1ee9c271a579d8b692e5224538924cf16549bf0334d0496190e1f
 {  
     "targetId": "123",
     "enableSpeaker":false,  
@@ -151,7 +151,7 @@ Authorization: V1-HMAC-SHA256,Asia/Shanghai;Scope=asr;Credential=test1;Signature
 GET /asr/v1/recognize/status?taskId=63aea6a7899f2d697dce3a2e
 X-AP-TS: 1672390311
 Host: cloud-test.abcpen.com
-Authorization: V1-HMAC-SHA256,Asia/Shanghai;Scope=cloud-test;Credential=test1;Signature=ca6b858b6fb656085b6a43ba88739bc4c18592d41b1e3dbb94a01b84dcb471d1
+Authorization: V1-HMAC-SHA256;Scope=cloud-test;Credential=test1;Signature=ca6b858b6fb656085b6a43ba88739bc4c18592d41b1e3dbb94a01b84dcb471d1
  
  ```  
 
@@ -232,7 +232,7 @@ Authorization: V1-HMAC-SHA256,Asia/Shanghai;Scope=cloud-test;Credential=test1;Si
 GET /asr/v1/recognize/result?taskId=63aea6a7899f2d697dce3a2e
 X-AP-TS: 1672390311
 Host: cloud-test.abcpen.com
-Authorization: V1-HMAC-SHA256,Asia/Shanghai;Scope=cloud-test;Credential=test1;Signature=ca6b858b6fb656085b6a43ba88739bc4c18592d41b1e3dbb94a01b84dcb471d1
+Authorization: V1-HMAC-SHA256;Scope=cloud-test;Credential=test1;Signature=ca6b858b6fb656085b6a43ba88739bc4c18592d41b1e3dbb94a01b84dcb471d1
  
  ```
 
@@ -313,7 +313,7 @@ Authorization: V1-HMAC-SHA256,Asia/Shanghai;Scope=cloud-test;Credential=test1;Si
 GET /asr/v1/recognize/queues
 X-AP-TS: 1672390311
 Host: cloud-test.abcpen.com
-Authorization: V1-HMAC-SHA256,Asia/Shanghai;Scope=cloud-test;Credential=test1;Signature=ca6b858b6fb656085b6a43ba88739bc4c18592d41b1e3dbb94a01b84dcb471d1
+Authorization: V1-HMAC-SHA256;Scope=cloud-test;Credential=test1;Signature=ca6b858b6fb656085b6a43ba88739bc4c18592d41b1e3dbb94a01b84dcb471d1
  
  ```  
 
@@ -364,7 +364,7 @@ Host: asr.cloud.abcpen.com
 Content-Type: application/json; charset=utf-8
 X-AP-TC: 1672388975
 Host: asr.cloud.abcpen.com
-Authorization: V1-HMAC-SHA256,Asia/Shanghai;Scope=asr;Credential=test1;Signature=7d894a3a3aa1ee9c271a579d8b692e5224538924cf16549bf0334d0496190e1f
+Authorization: V1-HMAC-SHA256;Scope=asr;Credential=test1;Signature=7d894a3a3aa1ee9c271a579d8b692e5224538924cf16549bf0334d0496190e1f
 {  
     //以下值传递任何一个即可
     "targetId": "XXXX",
