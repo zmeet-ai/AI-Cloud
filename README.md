@@ -1,15 +1,13 @@
-
 # 产品概述
-笔声语音识别（Automatic Speech Recognition，ASR）,文字转语音TTS(TextToSpeech) 为企业提供极具性价比的语音识别服务。可作用于录音质检、会议实时转写、同声传译、语音输入法 和 直播监管 视频智能字幕等多个场景。  
-详情参考[Wiki](https://github.com/zmeet-ai/AI-Cloud/wiki/AbcPen-%E4%BA%91%E6%9C%8D%E5%8A%A1)
+笔声语音识别（**Automatic Speech Recognition，ASR**）,文字转语音TTS(**TextToSpeech**) 为企业提供极具性价比的语音识别服务。可作用于录音质检、会议实时转写、同声传译、语音输入法 和 直播监管 视频智能字幕等多个场景。
 # 产品功能
 ### [实时语音识别](https://github.com/zmeet-ai/AI-Cloud/tree/main/java)
 对实时音频流进行识别，达到“边说边出文字”、“边说边翻译”的效果，可应用与语音输入、电话机器人、搭配TTS可实现同声传译等实时音频流场景。
-### [录音文件识别](https://github.com/zmeet-ai/AI-Cloud/tree/main/java)
+### [录音文件识别](https://github.com/zmeet-ai/AI-Cloud/wiki/Asr%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB)
 对录音文件进行识别，达到识别较长的非实时语音的效果，可用于字幕生成、录音资料转写、以及视频监管等场景。
 ### [TTS文字转语音](https://github.com/zmeet-ai/AI-Cloud/tree/main/java)
 云语音合成目前支持男女共17种声音效果，支持中英文以及各种语种粤语 闽南语 等，可以满足小说、客服、导航、通知等多种应用场景。
-### [声纹识别](https://github.com/zmeet-ai/AI-Cloud/tree/main/java)
+### [声纹识别](https://github.com/zmeet-ai/AI-Cloud/wiki/%E5%A3%B0%E7%BA%B9%E8%AF%86%E5%88%AB)
 声纹识别是通过提取用户注册的声纹文件，实现快速搜索定位用户在海量语音库中的 声纹标签可以配合ASR中文件转语音来区分不同说话人，实现多人语音分离等功能。
 
 # 产品优势
@@ -43,6 +41,6 @@
 
 可以搭配会议SDK 实现会议中同声传译功能, 辅助参会者理解。
 
-### Demo下载体验
-![Android](https://user-images.githubusercontent.com/38810579/210560924-6c30161f-5047-429c-91cb-0b717f51262b.png)
+### Demo下载
+![https___s3 abcpen cn_zmeet_sdk_AbcPenAiDemo_1 1 0 apk](https://user-images.githubusercontent.com/38810579/210561044-3858e25b-8404-4168-be13-a35703467210.png)
 
