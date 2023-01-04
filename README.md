@@ -5,7 +5,7 @@
 对实时音频流进行识别，达到“边说边出文字”、“边说边翻译”的效果，可应用与语音输入、电话机器人、搭配TTS可实现同声传译等实时音频流场景。
 ### [录音文件识别](https://github.com/zmeet-ai/AI-Cloud/wiki/Asr%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB)
 对录音文件进行识别，达到识别较长的非实时语音的效果，可用于字幕生成、录音资料转写、以及视频监管等场景。
-### [TTS文字转语音](https://github.com/zmeet-ai/AI-Cloud/tree/main/java)
+### [语音合成](https://github.com/zmeet-ai/AI-Cloud/tree/main/java)
 云语音合成目前支持男女共17种声音效果，支持中英文以及各种语种粤语 闽南语 等，可以满足小说、客服、导航、通知等多种应用场景。
 ### [声纹识别](https://github.com/zmeet-ai/AI-Cloud/wiki/%E5%A3%B0%E7%BA%B9%E8%AF%86%E5%88%AB)
 声纹识别是通过提取用户注册的声纹文件，实现快速搜索定位用户在海量语音库中的 声纹标签可以配合ASR中文件转语音来区分不同说话人，实现多人语音分离等功能。
