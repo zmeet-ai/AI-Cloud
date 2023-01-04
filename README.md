@@ -42,3 +42,6 @@
 ### 同声传译
 
 可以搭配会议SDK 实现会议中同声传译功能, 辅助参会者理解。
+
+### Demo下载体验
+![二维码体验下载](https://user-images.githubusercontent.com/38810579/210560237-7500f797-ed13-41d5-a932-5dd1cb79525f.png)
