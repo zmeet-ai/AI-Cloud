@@ -1,6 +1,7 @@
-# 详情参考[Wiki](https://github.com/zmeet-ai/AI-Cloud/wiki)
+
 # 产品概述
-笔声语音识别（Automatic Speech Recognition，ASR）,文字转语音TTS(TextToSpeech) 为企业提供极具性价比的语音识别服务。可作用于录音质检、会议实时转写、同声传译、语音输入法 和 直播监管 视频智能字幕等多个场景。
+笔声语音识别（Automatic Speech Recognition，ASR）,文字转语音TTS(TextToSpeech) 为企业提供极具性价比的语音识别服务。可作用于录音质检、会议实时转写、同声传译、语音输入法 和 直播监管 视频智能字幕等多个场景。  
+详情参考[Wiki](https://github.com/zmeet-ai/AI-Cloud/wiki)
 # 产品功能
 ### [实时语音识别](https://github.com/zmeet-ai/AI-Cloud/tree/main/java)
 对实时音频流进行识别，达到“边说边出文字”、“边说边翻译”的效果，可应用与语音输入、电话机器人、搭配TTS可实现同声传译等实时音频流场景。
