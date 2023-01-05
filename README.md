@@ -42,5 +42,5 @@
 可以搭配会议SDK 实现会议中同声传译功能, 辅助参会者理解。
 
 ### Demo下载
-![https___s3 abcpen cn_zmeet_sdk_AbcPenAiDemo_1 1 0 apk](https://user-images.githubusercontent.com/38810579/210561044-3858e25b-8404-4168-be13-a35703467210.png)
+![image](https://user-images.githubusercontent.com/38810579/210738381-6285b550-f07d-424b-a8ef-7e87a711816d.png)
 
